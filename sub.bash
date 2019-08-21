@@ -1,0 +1,3 @@
+echo second file
+date
+
